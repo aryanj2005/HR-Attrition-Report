@@ -9,9 +9,9 @@ This report documents the data source, preparation, KPIs, and insights reflected
 
 ## 2. Data Source
 
-File Name: HR_Employee_Attrition.csv
+File Name: "HR DATA_Excel.xlsx"
 
-Source Type: CSV (Comma Separated Values)
+Source Type: Excel  File
 
 Record Count: 1,470 employees
 
