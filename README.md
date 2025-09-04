@@ -112,8 +112,4 @@ This report ensures that the data, transformations, and dashboard metrics are fu
 
 ## 7. Snapshot of the Dashboard
 
-
-
-The HR Attrition Dashboard empowers HR leaders with real-time attrition tracking and actionable insights. By addressing pain points in Sales and mid-career employees, and focusing on improving job satisfaction, the organization can reduce turnover and strengthen workforce stability.
-
-This report ensures that the data, transformations, and dashboard metrics are fully transparent for decision-making and future updates.
+![https://github.com/aryanj2005/HR-Attrition-Report/blob/main/Dashboard%20Snapshot.png]
